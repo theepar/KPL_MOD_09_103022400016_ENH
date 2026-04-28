@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KPL_MOD_09_103022400016_ENH")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d4984d29608db93f0938d25260a20dbc188c43c")]
 [assembly: System.Reflection.AssemblyProductAttribute("KPL_MOD_09_103022400016_ENH")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KPL_MOD_09_103022400016_ENH")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
